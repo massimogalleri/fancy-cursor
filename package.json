@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/massimogalleri/hamburger.git"
+    "url": "git+https://github.com/massimogalleri/fancy-cursor.git"
   },
   "author": "Massimo Galleri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/massimogalleri/hamburger/issues"
+    "url": "https://github.com/massimogalleri/fancy-cursor/issues"
   },
-  "homepage": "https://github.com/massimogalleri/hamburger#readme",
+  "homepage": "https://github.com/massimogalleri/fancy-cursor#readme",
   "devDependencies": {
     "grunt": "^1.0.3",
     "grunt-contrib-sass": "^1.0.0",
